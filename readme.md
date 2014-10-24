@@ -1,25 +1,18 @@
-## Laravel PHP Framework
+## Live URL
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+p3.yixuanli.me
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+## Project Description
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+I have created an app using bootstrap and laravel framkework to develop a Develop's Best Friend site, which include two main features, elvish ipsum text generator and random user generators. The site enables users to generate up to 9 paragraphs of text and 100 random users. 
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+## Demo
 
-## Official Documentation
+http://screencast.com/t/DmmKgmXhH
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
+## For the TA's
 
-### Contributing To Laravel
+I have used many features on bootstrap for this site such as jumbotron, glyphicons, button-styling, panels, which I think is really fun. And mixing php and html to create the table for random user generator was a bit of a challenge. Both packages I used provided instructions on how to use them, so all I needed to do was to make the route and views, which is not very hard.
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+## Outside Code
+Faker and Lorem Ipsum packages on Packagist.
