@@ -19,7 +19,7 @@
 			        echo $faker->phoneNumber . '<br />';
 			        echo $faker->creditCardType . '<br />';
 			        echo $faker->creditCardNumber . '<br />';
-			        echo $faker->creditCardExpirationDate . '<br />';
+			        echo $faker->creditCardExpirationDateString . '<br />';
 			        
 
 			}
