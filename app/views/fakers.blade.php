@@ -9,7 +9,7 @@
 @stop
 
 @section('subhead')
-	Generate a random fake name, address, username, password, and (usable) email address for use with online message boards, social media, or whatever else.
+	Generate a random fake name, address, email, phone number, and even credit card information for use with online message boards, social media, or whatever else.
 	The idea is that, to improve online privacy, you should change your username and email address frequently so sites don't build a history of your activities. Of course, this is only a small part of the things that you can do to improve online privacy.
 @stop
 
