@@ -62,6 +62,18 @@
           font-size: (@font-size-base * 4);
         }
       }
+      
+    table {
+      border-collapse:collapse; 
+      table-layout:fixed; 
+      width:310px;
+    }
+    
+    table td {
+      border:solid 1px; 
+      width:150px; 
+      word-wrap:break-word;
+    }
 
     </style>
 
