@@ -12,9 +12,15 @@
 		$faker = Faker\Factory::create();
 			for ($i = 0; $i < $users; $i++)
 			{
-			    echo $faker->name;
-		        echo $faker->email;
-		        echo $faker->address;
+				echo $faker->name . '<br />';
+				echo $faker->userName . '<br />';
+			        echo $faker->email . '<br />';
+			        echo $faker->address . '<br />';
+			        echo $faker->phoneNumber . '<br />';
+			        echo $faker->creditCardType . '<br />';
+			        echo $faker->creditCardNumber . '<br />';
+			        echo $faker->creditCardExpirationDate . '<br />';
+			        
 
 			}
 		?>
